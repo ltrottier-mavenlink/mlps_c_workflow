@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30516.212
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mlps_c_workflow", "mlps_c_workflow\mlps_c_workflow.csproj", "{CE51612E-82BB-4929-8899-119427ED7183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE51612E-82BB-4929-8899-119427ED7183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE51612E-82BB-4929-8899-119427ED7183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE51612E-82BB-4929-8899-119427ED7183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE51612E-82BB-4929-8899-119427ED7183}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C002445-7573-46C9-885D-F5F7AFEAA510}
+	EndGlobalSection
+EndGlobal
